@@ -1,0 +1,28 @@
+name: ETHAN
+favicon: null
+layout_spectrum: 0.3290137010626495
+typography_spectrum: 0.14140792144462466
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9523851491976529
+  lightness: 0.8301752712577581
+  saturation: 0.9560589608736336
+  rhythmicContrast: 0.21877652080729604
+purpose: []
